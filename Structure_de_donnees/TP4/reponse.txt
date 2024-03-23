@@ -1,0 +1,1 @@
+6) (Réponse à toutes les questions) Je pense qu'il est inutile de montrer à l'utilisateur la menière dont on va intégrer la fonction de tri. Il s'agit d'une structure qui n'est utile qu'en interne puisque l'on part d'une liste avc sentinelle et on ressort avec une liste sentinelle

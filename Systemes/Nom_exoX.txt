@@ -1,0 +1,1 @@
+Format des rendus : un fichier (.c ou .h, voire .txt pour un makefile) par exercice nommé "Nom_exoX" avec X=numéro de l'exercice

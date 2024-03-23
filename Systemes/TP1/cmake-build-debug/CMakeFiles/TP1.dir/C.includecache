@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/valentin/Library/Mobile Documents/com~apple~CloudDocs/Fac/L2/S4/Systemes/TP1/decoupe.c
+
+/Users/valentin/Library/Mobile Documents/com~apple~CloudDocs/Fac/L2/S4/Systemes/TP1/exo2.c
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+string.h
+-
+decoupe.c
+/Users/valentin/Library/Mobile Documents/com~apple~CloudDocs/Fac/L2/S4/Systemes/TP1/decoupe.c
+

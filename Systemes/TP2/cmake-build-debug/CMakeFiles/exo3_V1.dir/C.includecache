@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/valentin/Library/Mobile Documents/com~apple~CloudDocs/Fac/L2/S4/Systemes/TP2/Matrice/exo3_V1.c
+stdio.h
+-
+stdlib.h
+-
+traiterLigne.h
+/Users/valentin/Library/Mobile Documents/com~apple~CloudDocs/Fac/L2/S4/Systemes/TP2/Matrice/traiterLigne.h
+matrice.h
+/Users/valentin/Library/Mobile Documents/com~apple~CloudDocs/Fac/L2/S4/Systemes/TP2/Matrice/matrice.h
+
+/Users/valentin/Library/Mobile Documents/com~apple~CloudDocs/Fac/L2/S4/Systemes/TP2/Matrice/matrice.c
+stdio.h
+-
+stdlib.h
+-
+matrice.h
+/Users/valentin/Library/Mobile Documents/com~apple~CloudDocs/Fac/L2/S4/Systemes/TP2/Matrice/matrice.h
+
+/Users/valentin/Library/Mobile Documents/com~apple~CloudDocs/Fac/L2/S4/Systemes/TP2/Matrice/matrice.h
+
+/Users/valentin/Library/Mobile Documents/com~apple~CloudDocs/Fac/L2/S4/Systemes/TP2/Matrice/traiterLigne.c
+matrice.h
+/Users/valentin/Library/Mobile Documents/com~apple~CloudDocs/Fac/L2/S4/Systemes/TP2/Matrice/matrice.h
+traiterLigne.h
+/Users/valentin/Library/Mobile Documents/com~apple~CloudDocs/Fac/L2/S4/Systemes/TP2/Matrice/traiterLigne.h
+
+/Users/valentin/Library/Mobile Documents/com~apple~CloudDocs/Fac/L2/S4/Systemes/TP2/Matrice/traiterLigne.h
+

@@ -1,0 +1,18 @@
+1)
+Les résultats sont toujours les mêmes et cohérents avec la vérification manuelle que je fais
+
+2)
+Les résultats sont cohérents avec l'étape 1 et tout se déroule dans l'ordre et correctement même en plusieurs essais
+
+3)
+Temps version 1 :
+    real	0m0.005s
+    user	0m0.001s
+    sys	    0m0.001s
+
+Temps version 2 :
+    real	0m0.007s
+    user	0m0.002s
+    sys	    0m0.004s
+
+Il était beaucoup plus coûteux d'appeler un processus différent pour chaque traitement de

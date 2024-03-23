@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/valentin/Library/Mobile Documents/com~apple~CloudDocs/Fac/L2/S4/Systemes/TP3/Course_au_clavier.c
+unistd.h
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+fcntl.h
+-
+errno.h
+-
+string.h
+-
+term_canon.h
+/Users/valentin/Library/Mobile Documents/com~apple~CloudDocs/Fac/L2/S4/Systemes/TP3/term_canon.h
+
+/Users/valentin/Library/Mobile Documents/com~apple~CloudDocs/Fac/L2/S4/Systemes/TP3/term_canon.h
+
